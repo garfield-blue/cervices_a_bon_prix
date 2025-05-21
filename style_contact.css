@@ -1,0 +1,15 @@
+body {
+    background-color: #e7dfdd;
+  }
+
+section {
+    font-size: 30px;
+    display: flex;
+    justify-content: center; /* centre horizontalement */
+    align-items: center;     /* centre verticalement (si hauteur définie) */
+    flex-direction: column;  /* optionnel : met les enfants en colonne */
+    background-color: transparent; /* pas "none" ! */
+    text-align: center;      /* utile pour centrer le texte à l'intérieur */
+}
+
+
