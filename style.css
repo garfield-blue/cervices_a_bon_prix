@@ -41,6 +41,10 @@ a:active{
   text-decoration: underline;
 }
 
+p, a {
+  size:25px;
+}
+
 .italic {
   font-style: italic;
 }
