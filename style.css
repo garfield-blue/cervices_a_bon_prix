@@ -24,6 +24,17 @@ div {
   padding: 0px;
 }
 
+h1 {
+  font-size: 35px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+a, p, li {
+  font-size: 24px;
+}
 
 a{
   color: #0076A6;
@@ -41,18 +52,6 @@ a:active{
   text-decoration: underline;
 }
 
-
-h1 {
-  font-size: 35px;
-}
-
-h2 {
-  font-size: 30px;
-}
-
-a, p, li {
-  font-size: 24px;
-}
 
 .italic {
   font-style: italic;
