@@ -41,8 +41,17 @@ a:active{
   text-decoration: underline;
 }
 
-p, a {
-  size:25px;
+
+h1 {
+  font-size: 35px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+a, p, li {
+  font-size: 24px;
 }
 
 .italic {
