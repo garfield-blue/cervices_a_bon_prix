@@ -1,0 +1,51 @@
+body {
+  background-color: #e7dfdd;
+}
+
+.skills {
+  display: flex;
+  align-content: flex-end;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+
+.skill_margin {
+  padding: 20px;
+}
+
+.skills a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.skill {
+  display: flex;
+  flex-direction: column;
+  border: 5px #000000 solid;
+  border-radius: 10px;
+}
+
+.skill:hover{
+  box-shadow: 3px 5px 20px #444444;
+}
+
+.skill p{
+  width: 300px;
+  margin: 10px;
+}
+
+.img_size {
+  display: flex;
+  border: 3px #000000 solid;
+  margin: 10px;
+  width: 180px;
+  height: 135px;
+  overflow: hidden;
+  border-radius: 40px;
+}
+
+.minia_title {
+  display: flex;
+  flex-direction: row;
+}
